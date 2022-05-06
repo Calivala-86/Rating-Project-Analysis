@@ -1,4 +1,3 @@
-# Ratings-Project-Analysis
-Using pandas and visualisation skills to determine if Fandango's ratings in 2015 had a bias towards rating movies better to sell more tickets.
+# How to do a Rating Analysis of Website Rating using Python
 
 all to this material due to Jose Portilla
