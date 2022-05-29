@@ -1,7 +1,7 @@
 # How to do a Rating Analysis of Website Rating using Python
 
 ## Requirements
-. Python 3.9 +
+1. Python 3.9 +
 
 2. Jupyter Notebook
 
