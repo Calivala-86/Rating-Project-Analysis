@@ -1,4 +1,10 @@
-# How to do a Rating Analysis of Website Rating using Python
+## Table of contents
+1. General info
+2. Requirements 
+3. Setup
+
+## General info
+This project is simple analysis for films rating
 
 ## Requirements
 1. Python 3.9 +
