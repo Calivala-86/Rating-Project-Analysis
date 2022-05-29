@@ -10,7 +10,7 @@
 ### Status: Ongoing 
 
 ## General info
-This project is simple analysis for films rating
+This project is simple analysis for films rating Website called Fandango
 
 ## Requirements
 ### Before you continue, ensure you have met the following requirements:
