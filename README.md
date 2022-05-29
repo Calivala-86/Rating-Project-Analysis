@@ -19,3 +19,5 @@
 ## Dataset
 1. fandango_scrape.csv
 2. all_sites_scores.csv
+
+## Acknowledgments
