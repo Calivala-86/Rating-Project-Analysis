@@ -3,6 +3,8 @@
 2. Requirements 
 3. Setup
 
+### Status: Ongoing 
+
 ## General info
 This project is simple analysis for films rating
 
