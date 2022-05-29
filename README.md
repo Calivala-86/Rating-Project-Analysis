@@ -4,7 +4,7 @@
 1. General info
 2. Requirements 
 3. Dataset
-4. Contribuition
+4. License
 5. Acknowledgements
 
 ### Status: Ongoing 
@@ -14,6 +14,7 @@ This project is simple analysis for films rating Website called Fandango. The pr
 
 ## Requirements
 ### Before you continue, ensure you have met the following requirements:
+
 1. Python 3.9 +
 
 2. Jupyter Notebook
@@ -31,6 +32,9 @@ This project is simple analysis for films rating Website called Fandango. The pr
 ## Dataset
 1. fandango_scrape.csv
 2. all_sites_scores.csv
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
 
 ## Acknowledgments
 1. Jose Marcial Portilla for providing the dataset and project done based on Udemy course. 
