@@ -10,7 +10,7 @@
 ### Status: Ongoing 
 
 ## General info
-This project is simple analysis for films rating Website called Fandango. The project in written in python with Jupyter notebook
+This project is simple analysis for films rating Website called Fandango. The project written in python with Jupyter notebook
 
 ## Requirements
 ### Before you continue, ensure you have met the following requirements:
