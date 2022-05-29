@@ -3,6 +3,7 @@
 2. Requirements 
 3. Dataset
 4. Setup
+5. Acknowledgements
 
 ### Status: Ongoing 
 
