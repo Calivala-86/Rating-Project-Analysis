@@ -1,7 +1,8 @@
 ## Table of contents
 1. General info
 2. Requirements 
-3. Setup
+3. Dataset
+4. Setup
 
 ### Status: Ongoing 
 
