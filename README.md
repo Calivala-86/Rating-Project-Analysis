@@ -28,9 +28,12 @@ This project is simple analysis for films rating Website called Fandango. The pr
 
 7. Seaborn
 
-
 ## Dataset
 1. fandango_scrape.csv
 2. all_sites_scores.csv
 
 ## Acknowledgments
+1. Jose Marcial Portillafor providing the dataset and project done based on Udemy course. 
+2. PhD stsudent Geovani Teca for reviewing and mentoring me through the project 
+3. https://github.com/anujdutt9/Feature-Selection-for-Machine-Learning
+4. https://www.youtube.com/watch?v=AuqZ4recf0s
