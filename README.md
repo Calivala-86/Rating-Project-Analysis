@@ -3,8 +3,8 @@
 ## Table of contents
 1. General info
 2. Requirements 
-3. Setup
-4. Dataset
+3. Dataset
+4. Contribuition
 5. Acknowledgements
 
 ### Status: Ongoing 
