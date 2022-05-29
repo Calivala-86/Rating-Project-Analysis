@@ -28,8 +28,9 @@ This project is simple analysis for films rating Website called Fandango. The pr
 6. Matplotlib
 
 7. Seaborn
-
- ### git clone https://https://github.com/Calivala-86/Rating-Project-Analysis.git
+ 
+ Youcan run this command inside your terminal:
+ git clone https://https://github.com/Calivala-86/Rating-Project-Analysis.git
 
 ## Dataset
 1. fandango_scrape.csv
