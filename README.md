@@ -29,7 +29,7 @@ This project is simple analysis for films rating Website called Fandango. The pr
 
 7. Seaborn
  
- Youcan run this command inside your terminal:
+ You can run this command inside your terminal:
  
  git clone https://https://github.com/Calivala-86/Rating-Project-Analysis.git
 
